@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Materias Aprobadas</title>
+
+</head>
+<body>
+  <header class="site-header">
+    <h1>Materias aprobadas</h1>
+    <p>Estudiante: Carlos Murgas — Carrera: Ingeniería en desarrollo de software</p>
+  </header>
+
+  <main class="grid">
+    <article class="card">
+      <h2>Programacion estructurada I</h2>
+      <p>Fundamentos de algoritmos y estructuras de control. Práctica con problemas básicos.</p>
+    </article>
+    <article class="card">
+      <h2>Desarrollo del pensamiento matematico y algebraico</h2>
+      <p>Límites, derivadas e introducción a aplicaciones de la derivada.</p>
+    </article>
+    <article class="card">
+      <h2>Desarrollo de funciones de base de datos</h2>
+      <p>Desarrollo de procesos almacenados, triggers y mas en sql.</p>
+    </article>
+    <article class="card">
+      <h2>Ingles</h2>
+      <p>Estructura, conversaciones, vocabulario, verbo to be.</p>
+    </article>
+    <article class="card">
+      <h2>Filosofia</h2>
+      <p>El arte de pensar.</p>
+    </article>
+  </main>
+</body>
+</html>
